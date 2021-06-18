@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @20-min
 - 👀 I’m interested in Product design and UI/UX design
-- 🌱 I’m currently learning UX/UX
+- 🌱 I’m currently learning UI/UX
 - 📫 How to reach me hi20min@gmail.com
 
 <!---
